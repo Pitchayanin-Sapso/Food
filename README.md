@@ -20,4 +20,5 @@
 ในส่วนนี้สามารถตรวจสอบได้ว่า Order ID นี้มีรายละเอียดเกี่ยวกับเมนู จำนวน และราคารวมทั้งหมด
 ![Image](https://github.com/user-attachments/assets/d33b0ac3-22b2-405d-9bee-77189ac44cf5)
 ## หน้าค้นหาคำสั่งซื้อ
-ส่วนนี้สามารถนำ Order ID มาใช้ในการค้นหาคำสั่งซื้อ ในกรณีที่ต้องการจะหาเฉพาะ Order
+ส่วนนี้สามารถนำ Order ID มาใช้ในการค้นหาคำสั่งซื้อ ในกรณีที่ต้องการจะหาเฉพาะ Order ID นั้นๆ
+![Image](https://github.com/user-attachments/assets/e561cce9-1b2d-4af7-b79a-11c20ec0884f)
